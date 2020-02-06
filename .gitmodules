@@ -1,3 +1,6 @@
 [submodule "ALBERT"]
 	path = ALBERT
 	url = https://github.com/zztanaka/ALBERT.git
+[submodule "wikiextractor"]
+	path = wikiextractor
+	url = https://github.com/zztanaka/wikiextractor.git
